@@ -60,30 +60,4 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
    php artisan serve
    ```
 
-Aplikasi sekarang dapat diakses melalui `http://localhost:8000`.
 
-## Struktur Direktori Penting
-- **`app/`**: Folder utama untuk logika aplikasi.
-- **`routes/`**: Konfigurasi rute aplikasi.
-- **`resources/views/`**: Template tampilan aplikasi.
-- **`public/`**: Folder untuk aset publik seperti CSS, JS, dan favicon.
-
-## Kontribusi
-Jika Anda ingin berkontribusi pada proyek ini:
-1. Fork repository.
-2. Buat branch fitur baru:
-   ```bash
-   git checkout -b fitur-anda
-   ```
-3. Commit perubahan Anda:
-   ```bash
-   git commit -m 'Menambahkan fitur ...'
-   ```
-4. Push ke branch:
-   ```bash
-   git push origin fitur-anda
-   ```
-5. Ajukan pull request.
-
-## Lisensi
-Proyek ini dilindungi oleh lisensi [MIT](LICENSE).
