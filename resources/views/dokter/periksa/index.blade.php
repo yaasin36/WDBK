@@ -9,11 +9,11 @@
                 <div class="peer peer-greed">
                     <h4>Data Pendaftar Poliklinik</h4>
                 </div>
-                <div class="peer mR-0">
+                {{-- <div class="peer mR-0">
                     <div class="text-end">
                         <a href="{{url('/dokter/daftar/create')}}" class="btn cur-p btn-primary btn-color">Tambah Pendaftar Poliklinik</a>
                     </div>
-                </div>
+                </div> --}}
             </div>
             <table class="table  table-hover">
                 <thead class="table-dark  ">

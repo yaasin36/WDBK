@@ -34,7 +34,8 @@
                 <div class="card-body text-center">
                     <div class="icon bg-primary text-white rounded-circle mx-auto mb-4"
                         style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
-                        <i class="far fa-user-shield fa-2x"></i>
+                        <i class="fas fa-user-cog fa-2x"></i>
+
                     </div>
                     <h5 class="fw-bold">Login Sebagai Admin</h5>
                     <p class="text-muted mt-3">Apabila Anda adalah seorang Admin, silakan Login untuk mengelola dan memantau sistem aplikasi ini!</p>
